@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Settings>
+	<BAMHost></BAMHost>
+	<BAMUser></BAMUser>
+	<BAMPassword></BAMPassword>
+	<BAMConfigurationName></BAMConfigurationName>
+	<BAMViewName></BAMViewName>
+	<BAMDomainName></BAMDomainName>
+</Settings>
